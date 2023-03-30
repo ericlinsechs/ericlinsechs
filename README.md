@@ -21,7 +21,8 @@ I'm an automotive software developer based in Taiwan with experience in Embedded
 
 - [Zelda Walkthrough Web](https://github.com/ericlinsechs/zelda-walkthrough-web)
 - [Raspberry Pi E-Paper Weather Display](https://github.com/ericlinsechs/rpi_e_paper_weather_display)
+- [key-value-list](https://github.com/ericlinsechs/key-value-list)
 
-## 🌐 Connect with me
+<!-- ## 🌐 Connect with me -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_username/)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_username/) -->
