@@ -13,9 +13,9 @@ I'm an automotive software developer based in Taiwan with experience in Embedded
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
 
-![Eric Lin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericlinsechs&show_icons=true&theme=radical)
+<!-- ![Eric Lin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericlinsechs&show_icons=true&theme=radical) -->
 
 ## 📦 Projects
 
