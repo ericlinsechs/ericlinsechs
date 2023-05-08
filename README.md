@@ -1,6 +1,6 @@
 # Hi there, I'm Eric Lin 👋
 
-I'm an automotive software developer based in Taiwan with experience in Embedded system and RTOS. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like coding and building various projects with Raspberry Pi or Arduino. Lately, I am obsessed with website backend part and start learning Golang and MongoDB to improve my backend skills.
+I'm an automotive software developer based in Taiwan with experience in Embedded system and RTOS. I enjoy coding open-source projects that solve unique problems.
 
 ## 🛠️ Languages and Tools
 [![C/C++](https://img.shields.io/badge/C/C++-green.svg)]()
